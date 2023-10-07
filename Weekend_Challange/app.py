@@ -1,0 +1,6 @@
+First_name=input("first nmae: ")
+Last_name=input("last name: ")
+Email_address = input("email address:")
+Phone_number = input("phone number: ")
+Location_place = input('location: ')
+print('First name:',First_name, 'Last name:',Last_name,'Email Address:', Email_address,'phone number:', Phone_number,'Location:', Location_place)
